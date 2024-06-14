@@ -1,1 +1,1 @@
-<strong>Entrega 07 Total</strong>
+<strong>Entrega final Parcial</strong>
