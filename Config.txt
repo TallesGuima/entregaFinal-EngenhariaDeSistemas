@@ -1,0 +1,14 @@
+- configuracaoConta: {0, 1, 0}
+
+
+
+- configuracaoConteudo{720, 3, 3, 1, 55}
+
+01 - Qualidade
+02 - Legenda(3 é pt-br)
+03 - Dublagem(3 é pt-br)
+04 - Velocidade
+05 - Brilho
+
+
+CAAAAC0lEQVR42mNkYAA
